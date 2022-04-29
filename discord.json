@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "xenon-computer-319809",
+  "private_key_id": "d835459e7f1296d067b5661d39df9a906f46eb05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxhs+3y6HHLsp3\nuAgxZ2UmJup7ntKE+HH/9ctPjercaO2uc8nYfNRFl9hU7Lh0Zod70oR6zpD7wo9+\n10MQNknmkpMOgIKkzmUvv4UMRwfD5egRdquJ3O3/lxSbzJ4NV9A6wijW/dBXKkw7\nS77kLBoviy0KEboS41e+gxn0KHAmAaSYx2jjWZVd0eB/crvO+7KYgXRis+0VvzJh\nIHb/66zMTEl6bfVeABbOKmaTJqRPYYFigaK11ss+4AnjJAFsaIwFB1IHhQTYjH3A\n/0Y0L3o+VEuwPXwExEajSXvKl6gnLc0B98hsAqlV3o9DmzA51vDwJueyfzB//WD9\nVecmCy21AgMBAAECggEAE/SqjueWFPTej5yhVyRfS22eeCz/TzE6Z2Jy60txtjsZ\nVL3xV6OYnQYXrFw70+Heov2kJMXpqFNTnBeIk1726bNaUowBo5ML7tUhmKK3bb7/\nWk8zszihjFSoXWcf8TII10ISIzC+5b18ekHmgHGws916P6KEfzENIP5NwZN2H99p\ncl7qX07ne5YmQ3FMZcJ9od67Z0v4wYmTYhClMmXTsAihysOds4KBLH3Sxse35MQL\nl9GKyvVsptSKfhpVaMFjEwLIwfR/yoWb9Y2KnQNRPgzlO3YFXTip3RTqMxL4aBbD\nt6k+lQPEXK3WDbqr89wL3AtHCz7OfRbqcd708cEmNQKBgQDdITdFCRZ664/E9vB9\nBLk4MyFCsLjoQO3mVlCfxzvWvNuSEy4qEAmBSMuYyWOEMALwDKCtr1mLWulccpZs\nVzPfIweNpxkygIDV8SgnKzUgB3p82dvVQdJe63J3Vi3pqq1ggqbzbefVhX2V7Lk8\nue737bq8LLpUFCfKE+m7UI4yrwKBgQDNhWF69kK6c3PW4d136pSlrnEA3wDALulh\nmXU0axKpNBcIqzSE5cbiSGtxgdA8xitegGhR9oga35QU76xIfeDmagxsifAfPnS4\nscye/5kUWti4jPJjr7o7wFx7DiyIjY7IOKvVKEdUGAaHuTLb9Kopuab2lK6Gu4BC\nwXs5ZXPO2wKBgQDHcAHNPdkMnBBa8O0NlIkI6vSAlarvrj/iks68jJCnqEXQhYQJ\nY9VuyRz3fAtJWZQMtRbmD1SPnzsBqkeJB009XvadB6xuJAAO9SXlzc5oSNZsbIEc\n4fS+r1PZ1dwq90jP1oaE3wdNSMxvv8WBw6CH892Lgju7QUJxu2v/CTR2+QKBgQCu\nhA4sfaRX8uVwmEaZJyamMaRfWv2mM6+VYtu1cR5dc5ADmm10VDE3wMsLjXGnyZbW\nHi93OeKE/0kdJg+jVtB8l5yJJfAyd7RhiQj6EoyITkQtIfJJV9TKHCPrkjOamKmf\ntw+iZxt6exRAd7CKOg2sdKskQ0iXu+vDw8vBBzb5dQKBgD4beMWPKAuoQ65WQlxo\nQ1SGRrD9DWjcQak8ValY2RFOuy+F9ZF3JVtxvNqWihjtVgpXb36uUVgLn/nSklHD\nOCN5Y7rvyACZsaKNjb3tpj+ObktPDoau2B27BOpdsJaEVMl77spVx0aGp+Ptnixl\nO8Ozaazz4dREOt/AsolraoKT\n-----END PRIVATE KEY-----\n",
+  "client_email": "discordbot@xenon-computer-319809.iam.gserviceaccount.com",
+  "client_id": "106289361804611645935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discordbot%40xenon-computer-319809.iam.gserviceaccount.com"
+}
